@@ -1,0 +1,2 @@
+USE isidrone;
+ALTER TABLE `order` ADD is_shipped tinyint(1) UNSIGNED DEFAULT 0;

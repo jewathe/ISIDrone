@@ -1,0 +1,20 @@
+USE isidrone;
+ALTER TABLE user ADD COLUMN type_utilisateur VARCHAR(20) NOT NULL DEFAULT 'CLIENT';
+
+
+INSERT INTO `isidrone`.`address`
+(`no`,`appt`,`street`,`zip`,`city`,`state`,`country`)
+VALUES
+("205","205","avenue Viger ouest","H2Z 1G2","Montréal","QC","Canada");
+
+Note: ship_address_id est l'id généré par la requête INSERT précédente
+
+SET SQL_SAFE_UPDATES=0;
+
+UPDATE user SET type_utilisateur = "CLIENT";
+
+INSERT INTO `isidrone`.`user`
+(`lastName`,`firstName`,`email`,`password`,`ship_address_id`,`type_utilisateur`)
+VALUES
+('Francois','Capone','fcapone@collegeuniversel.ca','5537ebbcb97e99637305eea2b38ade51daa644ef',3,'ADMIN');
+
