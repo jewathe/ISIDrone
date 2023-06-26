@@ -1,5 +1,5 @@
 # ISIDrone
-### l'administrateur peut acceder ou peut:
+### l'administrateur peut accéder ou peut:
 ---
 ### page d'accueil
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/59a3d72f-4a43-4d10-a653-c12b1df6a457">
@@ -13,7 +13,7 @@
 
 ---
 
-### lister les categories
+### lister les catégories
 
 <img width="959" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/ccc4ebd4-2be4-4743-9c8a-c4964efd5526">
 
@@ -42,7 +42,7 @@
 
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/d9cc2175-bda6-4430-b247-d109831a1f8f">
 
-### voir les details de la transaction
+### voir les détails de la transaction
 
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/07298b59-3f3e-43c0-8529-f00f0240303e">
 
