@@ -28,4 +28,17 @@
 
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/0fb9275d-8455-4095-ae92-3c1f9862415d">
 
+### le client peut:
+
+### ajouter au panier
+
+<img width="959" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/8b46a464-7129-461f-b1af-de2ea88b6849">
+
+### voir son panier
+
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/d1f8d6f2-4f2b-4d1a-9304-9f80015eb346">
+
+
+
+
 
