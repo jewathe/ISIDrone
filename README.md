@@ -38,7 +38,17 @@
 
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/d1f8d6f2-4f2b-4d1a-9304-9f80015eb346">
 
+### placer la commande
 
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/d9cc2175-bda6-4430-b247-d109831a1f8f">
+
+### voir les details de la transaction
+
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/07298b59-3f3e-43c0-8529-f00f0240303e">
+
+### confirmer ses informations
+
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/3872b442-72c7-45c9-9e15-ad3c742376fa">
 
 
 
