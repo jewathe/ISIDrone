@@ -23,3 +23,8 @@
 
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/c7df30a7-e973-44dd-a05f-15a0cf8091b0">
 
+### liste de commandes
+
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/0fb9275d-8455-4095-ae92-3c1f9862415d">
+
+
