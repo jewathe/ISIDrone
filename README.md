@@ -11,5 +11,15 @@
 <img width="950" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/c66e3c4a-7deb-420b-bd2d-2394611ccb38">
 
 ---
+
+### liste de categories
+
+<img width="959" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/ccc4ebd4-2be4-4743-9c8a-c4964efd5526">
+
 ### liste de produits
 <img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/d8fb0d7c-40d7-4f89-9cea-1d17f6424343">
+
+### liste d'utilisateurs
+
+<img width="960" alt="image" src="https://github.com/jewathe/ISIDrone/assets/89857594/c7df30a7-e973-44dd-a05f-15a0cf8091b0">
+
